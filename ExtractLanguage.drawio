@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T03:38:57.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="71SX5dRP1N451xwpEHhu" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T04:02:01.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="M1oXBdeD1Wvw-R88oI1U" version="13.1.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1185" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,8 +107,8 @@
         <mxCell id="byoN6DWb2ZMdWjJe2KeH-3" value="Mark Unstable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="otR9TPUCRhcJya0NwbyP-8">
           <mxGeometry x="210" y="280" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="otR9TPUCRhcJya0NwbyP-50" value="(Existing) Build docker images&lt;br&gt;&lt;br&gt;(Need update) &lt;br&gt;Add the multiple prop files to the image" style="rounded=0;whiteSpace=wrap;html=1;" parent="otR9TPUCRhcJya0NwbyP-8" vertex="1">
-          <mxGeometry x="360" y="70" width="129.5" height="140" as="geometry" />
+        <mxCell id="otR9TPUCRhcJya0NwbyP-50" value="(Existing) Build docker images&lt;br&gt;&lt;br&gt;Update the logic to:&amp;nbsp;&lt;br&gt;Add the multiple prop files to the image" style="rounded=0;whiteSpace=wrap;html=1;" parent="otR9TPUCRhcJya0NwbyP-8" vertex="1">
+          <mxGeometry x="360" y="70" width="129.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="otR9TPUCRhcJya0NwbyP-61" value="(Existing) Create releases" style="rounded=0;whiteSpace=wrap;html=1;" parent="otR9TPUCRhcJya0NwbyP-8" vertex="1">
           <mxGeometry x="359.5" y="230" width="130" height="67" as="geometry" />
